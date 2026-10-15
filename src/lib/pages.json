@@ -1,0 +1,220 @@
+[
+  {
+    "pathname": "/",
+    "slug": [],
+    "name": "Home",
+    "title": "Ameer Bamigbayan - Expert Web Developer",
+    "description": "I’m Ameer, an experienced web developer passionate about creating websites that not only exist but also perform effectively. I’m committed to building sites that help you stand out in the crowded online space.",
+    "bodyClass": "home wp-singular page-template-default page page-id-282 wp-embed-responsive wp-theme-montoya hidden hidden-ball smooth-scroll rounded-borders elementor-default elementor-kit-7 elementor-page elementor-page-282 disable-ajaxload",
+    "primaryColor": "#8c6144",
+    "stylesheet": "/styles/home.css",
+    "timestamp": "20260612232924",
+    "source": "https://web.archive.org/web/20260612232924id_/https://ameerbamigbayan.com/"
+  },
+  {
+    "pathname": "/contact/",
+    "slug": [
+      "contact"
+    ],
+    "name": "Contact",
+    "title": "Contact - Ameer Bamigbayan",
+    "description": "Contact - Ameer Bamigbayan",
+    "bodyClass": "wp-singular page-template-default page page-id-192 wp-embed-responsive wp-theme-montoya hidden hidden-ball smooth-scroll rounded-borders elementor-default elementor-kit-7 elementor-page elementor-page-192 disable-ajaxload",
+    "primaryColor": "#8c6144",
+    "stylesheet": "/styles/contact.css",
+    "timestamp": "20260612230016",
+    "source": "https://web.archive.org/web/20260612230016id_/https://ameerbamigbayan.com/contact/"
+  },
+  {
+    "pathname": "/about-me/",
+    "slug": [
+      "about-me"
+    ],
+    "name": "AboutMe",
+    "title": "About - Ameer Bamigbayan",
+    "description": "About - Ameer Bamigbayan",
+    "bodyClass": "wp-singular page-template-default page page-id-190 wp-embed-responsive wp-theme-montoya hidden hidden-ball smooth-scroll rounded-borders elementor-default elementor-kit-7 elementor-page elementor-page-190 disable-ajaxload",
+    "primaryColor": "#8c6144",
+    "stylesheet": "/styles/about-me.css",
+    "timestamp": "20260422080756",
+    "source": "https://web.archive.org/web/20260422080756id_/https://ameerbamigbayan.com/about-me/"
+  },
+  {
+    "pathname": "/projects/",
+    "slug": [
+      "projects"
+    ],
+    "name": "Projects",
+    "title": "Projects - Ameer Bamigbayan",
+    "description": "Projects - Ameer Bamigbayan",
+    "bodyClass": "wp-singular page-template page-template-portfolio-showcase-grid-page page-template-portfolio-showcase-grid-page-php page page-id-251 wp-embed-responsive wp-theme-montoya hidden hidden-ball smooth-scroll rounded-borders elementor-default elementor-kit-7 disable-ajaxload",
+    "primaryColor": "#8c6144",
+    "stylesheet": "/styles/projects.css",
+    "timestamp": "20260508085950",
+    "source": "https://web.archive.org/web/20260508085950id_/https://ameerbamigbayan.com/projects/"
+  },
+  {
+    "pathname": "/the-archive/",
+    "slug": [
+      "the-archive"
+    ],
+    "name": "TheArchive",
+    "title": "The Archive - Ameer Bamigbayan",
+    "description": "The Archive - Ameer Bamigbayan",
+    "bodyClass": "wp-singular page-template page-template-portfolio-showcase-gallery-page page-template-portfolio-showcase-gallery-page-php page page-id-280 wp-embed-responsive wp-theme-montoya hidden hidden-ball smooth-scroll rounded-borders elementor-default elementor-kit-7 disable-ajaxload",
+    "primaryColor": "#8c6144",
+    "stylesheet": "/styles/the-archive.css",
+    "timestamp": "20260508085128",
+    "source": "https://web.archive.org/web/20260508085128id_/https://ameerbamigbayan.com/the-archive/"
+  },
+  {
+    "pathname": "/project/chartreel/",
+    "slug": [
+      "project",
+      "chartreel"
+    ],
+    "name": "ProjectChartreel",
+    "title": "ChartReel - Ameer Bamigbayan",
+    "description": "ChartReel - Ameer Bamigbayan",
+    "bodyClass": "wp-singular montoya_portfolio-template-default single single-montoya_portfolio postid-151 wp-embed-responsive wp-theme-montoya hidden hidden-ball smooth-scroll rounded-borders elementor-default elementor-kit-7 elementor-page elementor-page-151 disable-ajaxload",
+    "primaryColor": "#8c6144",
+    "stylesheet": "/styles/project-chartreel.css",
+    "timestamp": "20260613003900",
+    "source": "https://web.archive.org/web/20260613003900id_/https://ameerbamigbayan.com/project/chartreel/"
+  },
+  {
+    "pathname": "/project/coca-cola/",
+    "slug": [
+      "project",
+      "coca-cola"
+    ],
+    "name": "ProjectCocaCola",
+    "title": "Coca-Cola - Ameer Bamigbayan",
+    "description": "Coca-Cola - Ameer Bamigbayan",
+    "bodyClass": "wp-singular montoya_portfolio-template-default single single-montoya_portfolio postid-128 wp-embed-responsive wp-theme-montoya hidden hidden-ball smooth-scroll rounded-borders elementor-default elementor-kit-7 elementor-page elementor-page-128 disable-ajaxload",
+    "primaryColor": "#8c6144",
+    "stylesheet": "/styles/project-coca-cola.css",
+    "timestamp": "20260422083939",
+    "source": "https://web.archive.org/web/20260422083939id_/https://ameerbamigbayan.com/project/coca-cola/"
+  },
+  {
+    "pathname": "/project/damfe/",
+    "slug": [
+      "project",
+      "damfe"
+    ],
+    "name": "ProjectDamfe",
+    "title": "Damfe Samuel - Ameer Bamigbayan",
+    "description": "Damfe Samuel - Ameer Bamigbayan",
+    "bodyClass": "wp-singular montoya_portfolio-template-default single single-montoya_portfolio postid-158 wp-embed-responsive wp-theme-montoya hidden hidden-ball smooth-scroll rounded-borders elementor-default elementor-kit-7 elementor-page elementor-page-158 disable-ajaxload",
+    "primaryColor": "#8c6144",
+    "stylesheet": "/styles/project-damfe.css",
+    "timestamp": "20260422080944",
+    "source": "https://web.archive.org/web/20260422080944id_/https://ameerbamigbayan.com/project/damfe/"
+  },
+  {
+    "pathname": "/project/danfo/",
+    "slug": [
+      "project",
+      "danfo"
+    ],
+    "name": "ProjectDanfo",
+    "title": "DáNfó - Ameer Bamigbayan",
+    "description": "DáNfó - Ameer Bamigbayan",
+    "bodyClass": "wp-singular montoya_portfolio-template-default single single-montoya_portfolio postid-175 wp-embed-responsive wp-theme-montoya hidden hidden-ball smooth-scroll rounded-borders elementor-default elementor-kit-7 elementor-page elementor-page-175 disable-ajaxload",
+    "primaryColor": "#8c6144",
+    "stylesheet": "/styles/project-danfo.css",
+    "timestamp": "20260314140607",
+    "source": "https://web.archive.org/web/20260314140607id_/https://ameerbamigbayan.com/project/danfo/"
+  },
+  {
+    "pathname": "/project/havit/",
+    "slug": [
+      "project",
+      "havit"
+    ],
+    "name": "ProjectHavit",
+    "title": "Havit - Ameer Bamigbayan",
+    "description": "Havit - Ameer Bamigbayan",
+    "bodyClass": "wp-singular montoya_portfolio-template-default single single-montoya_portfolio postid-2762 wp-embed-responsive wp-theme-montoya hidden hidden-ball smooth-scroll rounded-borders elementor-default elementor-kit-7 elementor-page elementor-page-2762 disable-ajaxload",
+    "primaryColor": "#8c6144",
+    "stylesheet": "/styles/project-havit.css",
+    "timestamp": "20260508074233",
+    "source": "https://web.archive.org/web/20260508074233id_/https://ameerbamigbayan.com/project/havit/"
+  },
+  {
+    "pathname": "/project/jobbox/",
+    "slug": [
+      "project",
+      "jobbox"
+    ],
+    "name": "ProjectJobbox",
+    "title": "JobBox - Ameer Bamigbayan",
+    "description": "JobBox - Ameer Bamigbayan",
+    "bodyClass": "wp-singular montoya_portfolio-template-default single single-montoya_portfolio postid-139 wp-embed-responsive wp-theme-montoya hidden hidden-ball smooth-scroll rounded-borders elementor-default elementor-kit-7 elementor-page elementor-page-139 disable-ajaxload",
+    "primaryColor": "#8c6144",
+    "stylesheet": "/styles/project-jobbox.css",
+    "timestamp": "20260314141230",
+    "source": "https://web.archive.org/web/20260314141230id_/https://ameerbamigbayan.com/project/jobbox/"
+  },
+  {
+    "pathname": "/project/kolomoni/",
+    "slug": [
+      "project",
+      "kolomoni"
+    ],
+    "name": "ProjectKolomoni",
+    "title": "Kolomoni - Ameer Bamigbayan",
+    "description": "Kolomoni - Ameer Bamigbayan",
+    "bodyClass": "wp-singular montoya_portfolio-template-default single single-montoya_portfolio postid-3952 wp-embed-responsive wp-theme-montoya hidden hidden-ball smooth-scroll rounded-borders elementor-default elementor-kit-7 elementor-page elementor-page-3952 disable-ajaxload",
+    "primaryColor": "#8c6144",
+    "stylesheet": "/styles/project-kolomoni.css",
+    "timestamp": "20260422081629",
+    "source": "https://web.archive.org/web/20260422081629id_/https://ameerbamigbayan.com/project/kolomoni/"
+  },
+  {
+    "pathname": "/project/the-swamp/",
+    "slug": [
+      "project",
+      "the-swamp"
+    ],
+    "name": "ProjectTheSwamp",
+    "title": "The Swamp - Ameer Bamigbayan",
+    "description": "The Swamp - Ameer Bamigbayan",
+    "bodyClass": "wp-singular montoya_portfolio-template-default single single-montoya_portfolio postid-115 wp-embed-responsive wp-theme-montoya hidden hidden-ball smooth-scroll rounded-borders elementor-default elementor-kit-7 elementor-page elementor-page-115 disable-ajaxload",
+    "primaryColor": "#8c6144",
+    "stylesheet": "/styles/project-the-swamp.css",
+    "timestamp": "20260314135127",
+    "source": "https://web.archive.org/web/20260314135127id_/https://ameerbamigbayan.com/project/the-swamp/"
+  },
+  {
+    "pathname": "/project/wizkid/",
+    "slug": [
+      "project",
+      "wizkid"
+    ],
+    "name": "ProjectWizkid",
+    "title": "$WIZKID - Ameer Bamigbayan",
+    "description": "$WIZKID - Ameer Bamigbayan",
+    "bodyClass": "wp-singular montoya_portfolio-template-default single single-montoya_portfolio postid-83 wp-embed-responsive wp-theme-montoya hidden hidden-ball smooth-scroll rounded-borders elementor-default elementor-kit-7 elementor-page elementor-page-83 disable-ajaxload",
+    "primaryColor": "#8c6144",
+    "stylesheet": "/styles/project-wizkid.css",
+    "timestamp": "20260422082041",
+    "source": "https://web.archive.org/web/20260422082041id_/https://ameerbamigbayan.com/project/wizkid/"
+  },
+  {
+    "pathname": "/project/talcube-learn/",
+    "slug": [
+      "project",
+      "talcube-learn"
+    ],
+    "name": "ProjectTalcubeLearn",
+    "title": "Talcube Learn - Ameer Bamigbayan",
+    "description": "Talcube Learn - Ameer Bamigbayan",
+    "bodyClass": "montoya_portfolio-template-default single single-montoya_portfolio postid-3514 wp-embed-responsive hidden hidden-ball smooth-scroll rounded-borders elementor-default elementor-kit-7 elementor-page elementor-page-3514 disable-ajaxload",
+    "primaryColor": "#8c6144",
+    "stylesheet": "/styles/project-talcube-learn.css",
+    "timestamp": "20250805021223",
+    "source": "https://web.archive.org/web/20250805021223id_/https://ameerbamigbayan.com/project/talcube-learn/"
+  }
+]

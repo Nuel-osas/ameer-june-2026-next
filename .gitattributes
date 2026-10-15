@@ -1,0 +1,4 @@
+# Preserve recovered third-party bytes and avoid treating them as authored code.
+public/assets/** -text -whitespace linguist-vendored
+public/styles/*.css -whitespace linguist-vendored
+public/styles/enhancements.css whitespace linguist-vendored=false

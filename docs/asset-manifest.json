@@ -1,0 +1,1675 @@
+[
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-forms/dist/contact-form/css/jetpack-forms-layout.css?ver=15.7.1",
+    "local": "/assets/9433ea10-jetpack-forms-layout.css",
+    "recovery": "D-j-View capture",
+    "bytes": 16372,
+    "sha256": "8361441d694f7190026c8dcb66ce833137ff31b0dd43b4ac266267f9f668a1d6"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/bcf-fonts/local-fonts.css",
+    "local": "/assets/a9663d7f-local-fonts.css",
+    "recovery": "D-j-View capture",
+    "bytes": 1970,
+    "sha256": "edbf5ceb7166e46f830fcf607b4002aa244c956a108b276f06e9ca03bfd74a3b"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.6",
+    "local": "/assets/f6faa3f5-styles.css",
+    "recovery": "D-j-View capture",
+    "bytes": 2979,
+    "sha256": "a3b9f5df6bf638a4cb583480bed6e18a84ad7141cc3d75b81094f91dd7b82f32"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.9.4",
+    "local": "/assets/60f4b555-wp-mediaelement.min.css",
+    "recovery": "D-j-View capture",
+    "bytes": 4186,
+    "sha256": "2e10d353ff038c2cad3492fc17801af3e6ef2669c9e9713bdb78b1dcb104c4fe"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17",
+    "local": "/assets/b1db457f-mediaelementplayer-legacy.min.css",
+    "recovery": "D-j-View capture",
+    "bytes": 11313,
+    "sha256": "ab54e561327c7552bf2db6b5d0761a00faab8cda648f7b9734ca08992b85c85a"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/hostinger-reach/frontend/dist/blocks/subscription.css?ver=1779169846",
+    "local": "/assets/69be2e29-subscription.css",
+    "recovery": "D-j-View capture",
+    "bytes": 12288,
+    "sha256": "9fe73163715be2973a33d6a77d9a232d37bb4c1760ee46f87e87073468bb9aed"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/content.css?ver=6.9.4",
+    "local": "/assets/0c499ce3-content.css",
+    "recovery": "D-j-View capture",
+    "bytes": 26070,
+    "sha256": "1b3d385c39e68d6949543eac2a64ba0a1bc371a7b5cb8032c880ae2b75f91724"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/portfolio.css?ver=6.9.4",
+    "local": "/assets/6ed8ca4f-portfolio.css",
+    "recovery": "D-j-View capture",
+    "bytes": 13154,
+    "sha256": "3bbe135852223bef90381e71257fe9af5a9dfef158dd4777864e4e616e33b2b6"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/showcase.css?ver=6.9.4",
+    "local": "/assets/338072eb-showcase.css",
+    "recovery": "D-j-View capture",
+    "bytes": 40637,
+    "sha256": "0349047fb7d65ee3e7b2dba3548e1d9b3f4e25544dc8ad6b79dbb0aad09f5086"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/blog.css?ver=6.9.4",
+    "local": "/assets/149311f6-blog.css",
+    "recovery": "D-j-View capture",
+    "bytes": 41593,
+    "sha256": "189c840400027f68c79dddf0faef7bf76aab861451abd058046aaddc1178ec04"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/assets.css?ver=6.9.4",
+    "local": "/assets/4f3ff81a-assets.css",
+    "recovery": "D-j-View capture",
+    "bytes": 18564,
+    "sha256": "0e4e11167125587a5ce6e58035d2113ad612feca7a64602216cdb12a733d1078"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/shortcodes.css?ver=6.9.4",
+    "local": "/assets/f3bdbc54-shortcodes.css",
+    "recovery": "D-j-View capture",
+    "bytes": 78545,
+    "sha256": "0df812461f8538034adfc2023fcdcf72ed73bd96432e24190e181f7f18243939"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/shop.css?ver=6.9.4",
+    "local": "/assets/680766fc-shop.css",
+    "recovery": "D-j-View capture",
+    "bytes": 77346,
+    "sha256": "c103f93ce4bfaa3696a1dc8569da31a8d098b77e512a86f9ac0e51d565ab40e6"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/page-builders.css?ver=6.9.4",
+    "local": "/assets/6a4693d0-page-builders.css",
+    "recovery": "D-j-View capture",
+    "bytes": 14379,
+    "sha256": "f0a6de14edb6546fec3c84a562f94fdd3378517976b6d9d66bf25a871cfc82c6"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/style-wp.css?ver=6.9.4",
+    "local": "/assets/1dbc9393-style-wp.css",
+    "recovery": "D-j-View capture",
+    "bytes": 8129,
+    "sha256": "c6a0e68ce893ae521948c9290acdc56eebf74b3e9092b02dd65150f782c5ac0e"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/style.css?ver=6.9.4",
+    "local": "/assets/2cd40621-style.css",
+    "recovery": "D-j-View capture",
+    "bytes": 75387,
+    "sha256": "b5cca826b0e81979eab6ff6a01aa24cc64c28f01e5d73e902ed73589734b9ab8"
+  },
+  {
+    "source": "https://fonts.googleapis.com/css?family=Poppins%3A300%2C400%2C500%2C600%2C700&ver=1.0.0",
+    "local": "/assets/d797807c-css.css",
+    "recovery": "D-j-View capture",
+    "bytes": 5498,
+    "sha256": "af227cc645182822436863e370ee0afb6d4ab8e737ee1ae68c5d458d3ffa9d19"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/all.min.css?ver=6.9.4",
+    "local": "/assets/9bd92b7d-all.min.css",
+    "recovery": "D-j-View capture",
+    "bytes": 102781,
+    "sha256": "8a46fcfe99b73ea7157967a6797407b4ea5d6d024c4909f4521a6ea4830da25b"
+  },
+  {
+    "source": "https://fonts.googleapis.com/css?family=Six+Caps&display=swap&ver=1.0.0",
+    "local": "/assets/62e78b4d-css.css",
+    "recovery": "D-j-View capture",
+    "bytes": 811,
+    "sha256": "fc3fdefc47eb73bccf6ba82258a33522d17e7830be76b570e50f6b309234c7cf"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.0.3",
+    "local": "/assets/1c5d9b22-frontend.min.css",
+    "recovery": "D-j-View capture",
+    "bytes": 54666,
+    "sha256": "0a5d398672e25dc7f020f69df92a985481b248a60e301fee232d0c8afd648dc5"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-7.css?ver=1781197630",
+    "local": "/assets/7e55cd4f-post-7.css",
+    "recovery": "D-j-View capture",
+    "bytes": 1197,
+    "sha256": "d8a37dfb044f7af1e26b311b4d1267ce7d9405bab984732dc4a64f9582d9bb50"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742663943",
+    "local": "/assets/f3086043-roboto.css",
+    "recovery": "D-j-View capture",
+    "bytes": 2376,
+    "sha256": "f0effe9c3f142e49a9abec23ba4c8d162633e79ea22246f7d16f4d9081bb22ac"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1742663960",
+    "local": "/assets/7750abdf-robotoslab.css",
+    "recovery": "D-j-View capture",
+    "bytes": 963,
+    "sha256": "636decd989272e9a0d0e81a25955a42a0fdddfaca38168c1620df2b298ad3bff"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.6.7",
+    "local": "/assets/26b9b632-general.min.css",
+    "recovery": "D-j-View capture",
+    "bytes": 7746,
+    "sha256": "96102022182a1acb5f4755104dd3f246c5826140767d6da628271ba0e2b0068e"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=4.0.3",
+    "local": "/assets/d6d5ae1b-widget-icon-box.min.css",
+    "recovery": "D-j-View capture",
+    "bytes": 4726,
+    "sha256": "398e2425ac154b75384c55af3fcb40cf68ef50e15714b9dda11bf54ee0b9fc35"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-282.css?ver=1781197630",
+    "local": "/assets/bc5040f2-post-282.css",
+    "recovery": "D-j-View capture",
+    "bytes": 4323,
+    "sha256": "27354fe994ef0a031bb797ec75a372571d7ac7ad64e87e0e83a02c4509712bab"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/Word-Mark-03-1.png",
+    "local": "/assets/fcce94cc-Word-Mark-03-1.png",
+    "recovery": "D-j-View capture",
+    "bytes": 10931,
+    "sha256": "b0d8c08699ca015c13c5a9855e74893d8fc4303c40e3ea7aefb3829a70015f46"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/Word-Mark-01-1.png",
+    "local": "/assets/f0de1c5c-Word-Mark-01-1.png",
+    "recovery": "D-j-View capture",
+    "bytes": 10955,
+    "sha256": "57e935e49c533aac3edaa2c4c69097c3ca245d39fd4c24ac6bc9abb92f6059e5"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/Group-3-3.png",
+    "local": "/assets/6c526b97-Group-3-3.png",
+    "recovery": "D-j-View capture",
+    "bytes": 22227,
+    "sha256": "c2baac673a8e61cbd64ac8e8f22dfa58df125bf481486cec4a82e3babd1581b8"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/Group-2-2.png",
+    "local": "/assets/c63a47c6-Group-2-2.png",
+    "recovery": "D-j-View capture",
+    "bytes": 30425,
+    "sha256": "f14c91a8f3db3d617c341fe931073c8061ffae72ef483370d8c6f00cf849671b"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/03/cropped-Group-41-32x32.png",
+    "local": "/assets/1cb2b22e-cropped-Group-41-32x32.png",
+    "recovery": "D-j-View capture",
+    "bytes": 1086,
+    "sha256": "c2c8cb26cf6ac0476ebdd2ce823bf39655ab3f54a4ffd8afa6e265f23b4812d7"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/03/cropped-Group-41-192x192.png",
+    "local": "/assets/9dd75df3-cropped-Group-41-192x192.png",
+    "recovery": "D-j-View capture",
+    "bytes": 6635,
+    "sha256": "b645486eedb18a63acd7960bf09b2d5b1b51d19e64c96051fefa675dd10b1350"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/03/cropped-Group-41-180x180.png",
+    "local": "/assets/65a0d791-cropped-Group-41-180x180.png",
+    "recovery": "D-j-View capture",
+    "bytes": 6151,
+    "sha256": "2f9d275546efbf0655d997f9d8a2a5763fa9a41b46b93c5d2ddfe1b39f19d5a1"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/751shots_so-1-2.png",
+    "local": "/assets/ae90e5df-751shots_so-1-2.png",
+    "recovery": "D-j-View capture",
+    "bytes": 226164,
+    "sha256": "f6faf7801b1baa04528f434d251f69fe2b2b1806d39bd74a2d1d66b37db3f64b"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+    "local": "/assets/f205e4c4-jquery.min.js",
+    "recovery": "D-j-View capture",
+    "bytes": 87553,
+    "sha256": "cb6f2d32c49d1c2b25e9ffc9aaafa3f83075346c01bcd4ae6eb187392a4292cf"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/04/kolomoni-2.png",
+    "local": "/assets/aecd9cfc-kolomoni-2.png",
+    "recovery": "D-j-View capture",
+    "bytes": 896415,
+    "sha256": "1d914b7ff15a5fe1132f32c0345a2392e8c4bcd1c6c17499f8508de7a387f172"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+    "local": "/assets/4042d121-jquery-migrate.min.js",
+    "recovery": "D-j-View capture",
+    "bytes": 13577,
+    "sha256": "5274f11e6fb32ae0cf2dfb9f8043272865c397a7c4223b4cfa7d50ea52fbde89"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/core/js/modernizr.js?ver=6.9.4",
+    "local": "/assets/1e4911c1-modernizr.js",
+    "recovery": "D-j-View capture",
+    "bytes": 14596,
+    "sha256": "449ad5dda77ea5602e212b043997b073174bdd8b1cef20c688ea2438b7cf0379"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/core/js/jquery.flexnav.min.js?ver=6.9.4",
+    "local": "/assets/d14c95c9-jquery.flexnav.min.js",
+    "recovery": "D-j-View capture",
+    "bytes": 3318,
+    "sha256": "de6a6e4ae8ca7cf0ca3bae07fe4b3a2e0a72a2e8b4ad05227176fe8c29bb3b13"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/core/js/jquery.waitforimages.js?ver=6.9.4",
+    "local": "/assets/9ccfb2df-jquery.waitforimages.js",
+    "recovery": "D-j-View capture",
+    "bytes": 1960,
+    "sha256": "5523705d16428ee2775da8a253c18a891c0752d9ddffdad04cf763bbb84593fe"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/2c8a162f-09fa-4f9b-933d-6d81d20a73b5-1-1.png",
+    "local": "/assets/e41e415e-2c8a162f-09fa-4f9b-933d-6d81d20a73b5-1-1.png",
+    "recovery": "D-j-View capture",
+    "bytes": 1071556,
+    "sha256": "df6455f1d5a43d1f611fad5c18268a4d247a5f4ac723e5e8409591121dcdbecd"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0",
+    "local": "/assets/f60f1e6b-imagesloaded.min.js",
+    "recovery": "D-j-View capture",
+    "bytes": 5520,
+    "sha256": "b65b3de1bc923b9355248a0d941a0eaee15dfb9a6b8eadb51323a8df6189dcd1"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/core/js/jquery.justifiedGallery.js?ver=6.9.4",
+    "local": "/assets/a6c534bd-jquery.justifiedGallery.js",
+    "recovery": "D-j-View capture",
+    "bytes": 18351,
+    "sha256": "0fed1e0933debe9d7de96e7d31f045ca076eb8cfc182b44b10972daca853c1de"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/core/js/clapatwebgl.js?ver=6.9.4",
+    "local": "/assets/9c27652a-clapatwebgl.js",
+    "recovery": "D-j-View capture",
+    "bytes": 2849,
+    "sha256": "1c543390feb8f99cc25da6366439d8c3329f5454c6d2e2b82093618197d684e7"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/core/js/clapatslider.min.js?ver=6.9.4",
+    "local": "/assets/fcbd05ca-clapatslider.min.js",
+    "recovery": "D-j-View capture",
+    "bytes": 24200,
+    "sha256": "00ba939446b5badabddb7dc9c415711a35b8225647529b2442593233c596046a"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/core/js/gsap.min.js?ver=6.9.4",
+    "local": "/assets/61835432-gsap.min.js",
+    "recovery": "D-j-View capture",
+    "bytes": 72213,
+    "sha256": "53c3a2be6f0df881861adce7bcc3da341a64f5fefe244634f9a37197d0f58fb7"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/core/js/jssocials.min.js?ver=6.9.4",
+    "local": "/assets/1d62fe3c-jssocials.min.js",
+    "recovery": "D-j-View capture",
+    "bytes": 8794,
+    "sha256": "983812503ab11b400eeded3979677a7908ff337b28c8cb5bc997003e33ff220b"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/core/js/gridtofullscreen.min.js?ver=6.9.4",
+    "local": "/assets/c5580907-gridtofullscreen.min.js",
+    "recovery": "D-j-View capture",
+    "bytes": 19800,
+    "sha256": "a049708c3c7480c3cc4bbfe11d7e1620719a5e06e16cf4485ee75608ad067f87"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/core/js/scrolltrigger.min.js?ver=6.9.4",
+    "local": "/assets/8afbfcba-scrolltrigger.min.js",
+    "recovery": "D-j-View capture",
+    "bytes": 43379,
+    "sha256": "1689c1a15d71ec9e9d6e4f19b81b88b245b184d55dc0d2f73a3c204d5d897957"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/core/js/flip.min.js?ver=6.9.4",
+    "local": "/assets/943f27b8-flip.min.js",
+    "recovery": "D-j-View capture",
+    "bytes": 24946,
+    "sha256": "de349af29bb0dd38a556e670b9492f715220a360d20759d6ec86d2c0bba816df"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/core/js/three.min.js?ver=6.9.4",
+    "local": "/assets/a14e2968-three.min.js",
+    "recovery": "D-j-View capture",
+    "bytes": 603444,
+    "sha256": "e88777b710dc240de9ae99424dae9b140f708f11ec8bc39440f7fcfae3ffd601"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/core/js/smooth-scrollbar.min.js?ver=6.9.4",
+    "local": "/assets/3dd0c47e-smooth-scrollbar.min.js",
+    "recovery": "D-j-View capture",
+    "bytes": 48674,
+    "sha256": "6a31e76d1fbcfa4d5fe9f50d533ed0a1f02403c638f2a833f94685517620c979"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/core/js/common.js?ver=6.9.4",
+    "local": "/assets/0729c9b7-common.js",
+    "recovery": "D-j-View capture",
+    "bytes": 127308,
+    "sha256": "e485a6f7051dfdb7433b5e2dc5eea8ae89f4bf32622cbdd8b16a50e68745692e"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/js/scripts.js?ver=6.9.4",
+    "local": "/assets/e5886f49-scripts.js",
+    "recovery": "D-j-View capture",
+    "bytes": 99750,
+    "sha256": "8933894c213073980eb19bee6035817d92209d6992523837f4b380301d02a3a1"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-7.css?ver=1776765013",
+    "local": "/assets/ca31d945-post-7.css",
+    "recovery": "D-j-View capture",
+    "bytes": 1197,
+    "sha256": "d8a37dfb044f7af1e26b311b4d1267ce7d9405bab984732dc4a64f9582d9bb50"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5",
+    "local": "/assets/80dd22a5-styles.css",
+    "recovery": "D-j-View capture",
+    "bytes": 2979,
+    "sha256": "a3b9f5df6bf638a4cb583480bed6e18a84ad7141cc3d75b81094f91dd7b82f32"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.6.2",
+    "local": "/assets/297a4172-general.min.css",
+    "recovery": "D-j-View capture",
+    "bytes": 7746,
+    "sha256": "96102022182a1acb5f4755104dd3f246c5826140767d6da628271ba0e2b0068e"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=4.0.3",
+    "local": "/assets/1c60f1a7-fadeInUp.min.css",
+    "recovery": "original asset URL",
+    "bytes": 130,
+    "sha256": "7263363f11b6184fe306b05a849db2de5a674258610578e594068bec72b4f2a9"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=4.0.3",
+    "local": "/assets/96a10064-widget-spacer.min.css",
+    "recovery": "original asset URL",
+    "bytes": 1793,
+    "sha256": "808a659eb4e85607c6efe022bff149c3076853c5570a322bd35e5e8cb9458904"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-float.min.css?ver=4.0.3",
+    "local": "/assets/2d56e16a-e-animation-float.min.css",
+    "recovery": "original asset URL",
+    "bytes": 244,
+    "sha256": "0df227605e7c2950dd153d584e450ddb82e5c61da5ae83f326561ef691f37fde"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.0.3",
+    "local": "/assets/29a95bc7-widget-image.min.css",
+    "recovery": "original asset URL",
+    "bytes": 214,
+    "sha256": "fb8690e594b2f9b841585895d811e8cb839667a1a63963d1a1cdea11e2aa2abb"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-192.css?ver=1781203423",
+    "local": "/assets/c3e06a2d-post-192.css",
+    "recovery": "original asset URL",
+    "bytes": 7093,
+    "sha256": "c5b4a0b6de5f5602451d07383060d901e6f709f7e46ea92afe1072eb3c3d82f8"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/20250124_204309-577x1024.jpg",
+    "local": "/assets/e9ae4ce0-20250124_204309-577x1024.jpg",
+    "recovery": "original asset URL",
+    "bytes": 100857,
+    "sha256": "a313be68e6343e4134b2a3551b04bb18ce7b30ccc9795d2f1a673a03c2f186bf"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/20250124_204309-768x1364.jpg",
+    "local": "/assets/7e103f8e-20250124_204309-768x1364.jpg",
+    "recovery": "original asset URL",
+    "bytes": 170935,
+    "sha256": "fd2237cdc663dabf4975f602ab605834f854ed7f093a1f412ab95a230c87d75c"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/20250124_204309-169x300.jpg",
+    "local": "/assets/2f744b40-20250124_204309-169x300.jpg",
+    "recovery": "original asset URL",
+    "bytes": 11265,
+    "sha256": "0c4640f7a45777497d16e323489c2d3663e42b2342d63acd6612ba31790d32de"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/VideoCapture_20250213-075111.jpg",
+    "local": "/assets/25ea9a7f-VideoCapture_20250213-075111.jpg",
+    "recovery": "original asset URL",
+    "bytes": 276290,
+    "sha256": "ce5722a1775902b736060ac63d280df9173f18e3afcf634adf6b204b9482dae7"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-190.css?ver=1776769332",
+    "local": "/assets/8a335135-post-190.css",
+    "recovery": "original asset URL",
+    "bytes": 4278,
+    "sha256": "fc04e37533048595e9a0038282cd88aa3e0d688272c95f5f766fd833057468fc"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/VideoCapture_20250213-075111-864x1536.jpg",
+    "local": "/assets/e9817915-VideoCapture_20250213-075111-864x1536.jpg",
+    "recovery": "original asset URL",
+    "bytes": 106958,
+    "sha256": "28f78ab4aa646507a60b8b3f79896bad408e84c0539a07914bbe865ec467eacc"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/VideoCapture_20250213-075111-169x300.jpg",
+    "local": "/assets/4d3d9985-VideoCapture_20250213-075111-169x300.jpg",
+    "recovery": "original asset URL",
+    "bytes": 10632,
+    "sha256": "0ce603637d6f2c64dfa34ca3d7586980a6909230844edf33f9f47fdf8310b995"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/VideoCapture_20250213-075111-1152x2048.jpg",
+    "local": "/assets/62c3d03d-VideoCapture_20250213-075111-1152x2048.jpg",
+    "recovery": "original asset URL",
+    "bytes": 165825,
+    "sha256": "c1dce9c4a7da1fb5a18e156999964204bb2c6ff9690a2fb9c5fac5535e7a49f0"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/TALCUBE-1.png",
+    "local": "/assets/b28fc505-TALCUBE-1.png",
+    "recovery": "original asset URL",
+    "bytes": 13070,
+    "sha256": "2c618e96701b9de324e8dbd799aef2e1f4bc1e155bea781f5dd8ad98a0966036"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/VideoCapture_20250213-075712-169x300.jpg",
+    "local": "/assets/98c11719-VideoCapture_20250213-075712-169x300.jpg",
+    "recovery": "original asset URL",
+    "bytes": 8733,
+    "sha256": "b199a31bac7b3aee4d60474a34d63b59cdf219c245756ecfb7e5f327a43f991e"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/VideoCapture_20250213-075712.jpg",
+    "local": "/assets/e625958f-VideoCapture_20250213-075712.jpg",
+    "recovery": "original asset URL",
+    "bytes": 121456,
+    "sha256": "e60fb4683fcc5cddf3175c635585753a0bc3f133635e21caa58dce8cad5cb5cf"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/VideoCapture_20250213-075111-768x1365.jpg",
+    "local": "/assets/b7e38fa1-VideoCapture_20250213-075111-768x1365.jpg",
+    "recovery": "original asset URL",
+    "bytes": 89651,
+    "sha256": "1273b0c74ed0846ce692a83a8b4561f8608dd768496de3facae16e5664daad21"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/VideoCapture_20250213-075111-576x1024.jpg",
+    "local": "/assets/71ef9009-VideoCapture_20250213-075111-576x1024.jpg",
+    "recovery": "original asset URL",
+    "bytes": 58933,
+    "sha256": "f9240a8d8c60e31f2c93c7c7c1b64931c20fe0d58ffbcc89dc2078e14a0e6a1d"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/01/ULESSON.png",
+    "local": "/assets/879622dc-ULESSON.png",
+    "recovery": "original asset URL",
+    "bytes": 10593,
+    "sha256": "9a589689b19f39a54f13564ad69756c84f9bf85744c778fc1122e46e09ca201f"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/SIDE-HUSTLE-1.png",
+    "local": "/assets/ab82fe6e-SIDE-HUSTLE-1.png",
+    "recovery": "original asset URL",
+    "bytes": 12453,
+    "sha256": "1874ce249a81b36e56ae0b9747ed53479ee8f5ebac25a11263a281c44d361f1b"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/GROWLB-1.png",
+    "local": "/assets/d16e8c10-GROWLB-1.png",
+    "recovery": "original asset URL",
+    "bytes": 14555,
+    "sha256": "38e362a7839b8e791a13e79abfe2b4bdc341c69beb92e8c88fa4a8715db51488"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/VideoCapture_20250213-075712-576x1024.jpg",
+    "local": "/assets/58a5bb9c-VideoCapture_20250213-075712-576x1024.jpg",
+    "recovery": "original asset URL",
+    "bytes": 67007,
+    "sha256": "173935f5adea2e8865dcc10732f9cf6b673aeae1e07d4de51817d43b4e345852"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/IPS-1-1.png",
+    "local": "/assets/0b36c4a9-IPS-1-1.png",
+    "recovery": "original asset URL",
+    "bytes": 19719,
+    "sha256": "08f0749c03cd04fcefe155a417a9f45e36fca4069f75db03559a017957a12754"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/12/f450996f-4be3-4e21-af0a-d507373d6380-1.png",
+    "local": "/assets/b3955e18-f450996f-4be3-4e21-af0a-d507373d6380-1.png",
+    "recovery": "original asset URL",
+    "bytes": 132861,
+    "sha256": "9177d3a4f131b93be327ddf8f32b7b29674a8b1ae192bd2d475bc20a62ac23c1"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/20250124_204309-865x1536.jpg",
+    "local": "/assets/c3ede446-20250124_204309-865x1536.jpg",
+    "recovery": "original asset URL",
+    "bytes": 213324,
+    "sha256": "ece34c8c3429f7a85b94e365a09e3e774549fa7f382fdd15cad675c52fe4c312"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-7.css?ver=1778147410",
+    "local": "/assets/49c3221c-post-7.css",
+    "recovery": "D-j-View capture",
+    "bytes": 1197,
+    "sha256": "d8a37dfb044f7af1e26b311b4d1267ce7d9405bab984732dc4a64f9582d9bb50"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.6.3",
+    "local": "/assets/b7dd6d06-general.min.css",
+    "recovery": "D-j-View capture",
+    "bytes": 7746,
+    "sha256": "96102022182a1acb5f4755104dd3f246c5826140767d6da628271ba0e2b0068e"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/UPWORK-2.png",
+    "local": "/assets/59033381-UPWORK-2.png",
+    "recovery": "original asset URL",
+    "bytes": 13408,
+    "sha256": "2d739769c71628034f95ff168f914ef23c8f60a7b0dadf8c02b5fa9245d19ca6"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/12/certificate_page-0001-1-1.png",
+    "local": "/assets/3787b51a-certificate_page-0001-1-1.png",
+    "recovery": "original asset URL",
+    "bytes": 269777,
+    "sha256": "29a3e8bc6659e6495bfb0682027e1f67589fa32e65d5f7a2edefe83db5d44ff0"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/20250124_204309-1153x2048.jpg",
+    "local": "/assets/ef7878b6-20250124_204309-1153x2048.jpg",
+    "recovery": "original asset URL",
+    "bytes": 363699,
+    "sha256": "443c60ff4b18e0da359f3548634b91edef8d58578353a3aeb0951745a4f44cdd"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/12/cert-CT-J084O2JJ-1-1.png",
+    "local": "/assets/2e2ec1af-cert-CT-J084O2JJ-1-1.png",
+    "recovery": "original asset URL",
+    "bytes": 220557,
+    "sha256": "bb32b325929b5c4561981e578fe0ac03d59069fcb9fd9f79821e0881d56ef8d8"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-includes/css/dist/block-library/style.min.css?ver=6.9.4",
+    "local": "/assets/7b134530-style.min.css",
+    "recovery": "original asset URL",
+    "bytes": 140829,
+    "sha256": "222ca4216c4f17530a03bf9701410b689d7d9c953c8ddcc9d4e8722d69c348aa"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/12/Ameer_Bamigbayan_Sidehustle_Certificate-1-1.png",
+    "local": "/assets/0763fa78-Ameer_Bamigbayan_Sidehustle_Certificate-1-1.png",
+    "recovery": "original asset URL",
+    "bytes": 532194,
+    "sha256": "474d01a2036a50ad1af11a175e80eda49673403be79390dc1c64e3a3478caa89"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/02/20250124_204309-scaled.jpg",
+    "local": "/assets/6fb99b05-20250124_204309-scaled.jpg",
+    "recovery": "original asset URL",
+    "bytes": 550499,
+    "sha256": "95a32f5f6bd606979216814cad52de0056614b125eddc24d199a474e736a0495"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/661shots_so-1-1.png",
+    "local": "/assets/32f693f7-661shots_so-1-1.png",
+    "recovery": "original asset URL",
+    "bytes": 282198,
+    "sha256": "ff8e198ee63a270407ef7177621b9a61a5657134685d19d32bcdaae1cfe3fcb3"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=4.0.3",
+    "local": "/assets/9768cd22-e-animation-grow.min.css",
+    "recovery": "original asset URL",
+    "bytes": 198,
+    "sha256": "dad3795cefb3d9f5dc2cb4a6e621043322cc94cd90170f28f25b8a0c3eda7633"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-151.css?ver=1781215103",
+    "local": "/assets/b1c091b8-post-151.css",
+    "recovery": "original asset URL",
+    "bytes": 2341,
+    "sha256": "e1cb95dd9678af4d45c2ea431431f3395df7afc5fd211e24d7422e893a213687"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/01/Group-40.png",
+    "local": "/assets/ab68ac4f-Group-40.png",
+    "recovery": "original asset URL",
+    "bytes": 41215,
+    "sha256": "9842042dd726c4bb780085fe614835c9ce1c4f789a0000811bbd15bbc7b3b251"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/12/certificate-177561954-1-1.png",
+    "local": "/assets/bf43239d-certificate-177561954-1-1.png",
+    "recovery": "original asset URL",
+    "bytes": 137115,
+    "sha256": "538d34b982b6ac1973717b7b17f2202e7088be5f2968dd1a3eaef74ccd5cfce6"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/MacBook-01-1-1.png",
+    "local": "/assets/a42ce025-MacBook-01-1-1.png",
+    "recovery": "original asset URL",
+    "bytes": 950444,
+    "sha256": "927dd1d6c482949eccd882f540ab47ae8cffdf7dda01e898a8801ac152f50fb3"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/10/chartreel.netlify.app_-1.png",
+    "local": "/assets/3398cec0-chartreel.netlify.app_-1.png",
+    "recovery": "original asset URL",
+    "bytes": 486209,
+    "sha256": "d336f430b509f9afb75c616e397b10214805c0dd4da1658e32db5febc6661952"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/Group-39.png",
+    "local": "/assets/19f909a1-Group-39.png",
+    "recovery": "original asset URL",
+    "bytes": 32199,
+    "sha256": "4adabf1c3054823e0511ce56d5347dfbad1507258ee38c1f0bd0d85e39101e3f"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/10/chartreel.netlify.app_advanced-chart_btc-1.png",
+    "local": "/assets/295eec6e-chartreel.netlify.app_advanced-chart_btc-1.png",
+    "recovery": "original asset URL",
+    "bytes": 127051,
+    "sha256": "5dd5e2df65efbf99fa4a9299ca7bb3103a8bc2dd5ea1a32c2c75bb3b82db215c"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/10/chartreel.netlify.app_learn-more_btc-1-1.png",
+    "local": "/assets/e2c75323-chartreel.netlify.app_learn-more_btc-1-1.png",
+    "recovery": "original asset URL",
+    "bytes": 102364,
+    "sha256": "bd10fbf406f2321e68c964884bdec49b48b6a3a3929ee4c6f59018a48fe16ae5"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-128.css?ver=1776767337",
+    "local": "/assets/e3c9bdc5-post-128.css",
+    "recovery": "original asset URL",
+    "bytes": 3880,
+    "sha256": "cebb4963e5869a3b592a55e18e2740395f52cddfb966899fe96fa00c74cfb213"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/810shots_so-1.png",
+    "local": "/assets/60de44a6-810shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 468716,
+    "sha256": "a202dbde1de266c31a7c5ebc481c63697159036c16f9db6f3f2c8da7458a5ece"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.9.1",
+    "local": "/assets/71262f88-wp-mediaelement.min.css",
+    "recovery": "D-j-View capture",
+    "bytes": 4186,
+    "sha256": "2e10d353ff038c2cad3492fc17801af3e6ef2669c9e9713bdb78b1dcb104c4fe"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4",
+    "local": "/assets/7621354d-styles.css",
+    "recovery": "D-j-View capture",
+    "bytes": 2979,
+    "sha256": "a3b9f5df6bf638a4cb583480bed6e18a84ad7141cc3d75b81094f91dd7b82f32"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/content.css?ver=6.9.1",
+    "local": "/assets/f0d9ff96-content.css",
+    "recovery": "D-j-View capture",
+    "bytes": 26070,
+    "sha256": "1b3d385c39e68d6949543eac2a64ba0a1bc371a7b5cb8032c880ae2b75f91724"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/showcase.css?ver=6.9.1",
+    "local": "/assets/1f2a4b28-showcase.css",
+    "recovery": "D-j-View capture",
+    "bytes": 40637,
+    "sha256": "0349047fb7d65ee3e7b2dba3548e1d9b3f4e25544dc8ad6b79dbb0aad09f5086"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/portfolio.css?ver=6.9.1",
+    "local": "/assets/9e17a3a5-portfolio.css",
+    "recovery": "D-j-View capture",
+    "bytes": 13154,
+    "sha256": "3bbe135852223bef90381e71257fe9af5a9dfef158dd4777864e4e616e33b2b6"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/blog.css?ver=6.9.1",
+    "local": "/assets/5127393b-blog.css",
+    "recovery": "D-j-View capture",
+    "bytes": 41593,
+    "sha256": "189c840400027f68c79dddf0faef7bf76aab861451abd058046aaddc1178ec04"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/shortcodes.css?ver=6.9.1",
+    "local": "/assets/ad089fb1-shortcodes.css",
+    "recovery": "D-j-View capture",
+    "bytes": 78545,
+    "sha256": "0df812461f8538034adfc2023fcdcf72ed73bd96432e24190e181f7f18243939"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/assets.css?ver=6.9.1",
+    "local": "/assets/5ce2fab7-assets.css",
+    "recovery": "D-j-View capture",
+    "bytes": 18564,
+    "sha256": "0e4e11167125587a5ce6e58035d2113ad612feca7a64602216cdb12a733d1078"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/shop.css?ver=6.9.1",
+    "local": "/assets/a65b17a8-shop.css",
+    "recovery": "D-j-View capture",
+    "bytes": 77346,
+    "sha256": "c103f93ce4bfaa3696a1dc8569da31a8d098b77e512a86f9ac0e51d565ab40e6"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/style-wp.css?ver=6.9.1",
+    "local": "/assets/20245d31-style-wp.css",
+    "recovery": "D-j-View capture",
+    "bytes": 8129,
+    "sha256": "c6a0e68ce893ae521948c9290acdc56eebf74b3e9092b02dd65150f782c5ac0e"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/page-builders.css?ver=6.9.1",
+    "local": "/assets/fa7066af-page-builders.css",
+    "recovery": "D-j-View capture",
+    "bytes": 14379,
+    "sha256": "f0a6de14edb6546fec3c84a562f94fdd3378517976b6d9d66bf25a871cfc82c6"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/style.css?ver=6.9.1",
+    "local": "/assets/4e9a3f63-style.css",
+    "recovery": "D-j-View capture",
+    "bytes": 75387,
+    "sha256": "b5cca826b0e81979eab6ff6a01aa24cc64c28f01e5d73e902ed73589734b9ab8"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/all.min.css?ver=6.9.1",
+    "local": "/assets/20b5b66c-all.min.css",
+    "recovery": "D-j-View capture",
+    "bytes": 102781,
+    "sha256": "8a46fcfe99b73ea7157967a6797407b4ea5d6d024c4909f4521a6ea4830da25b"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.34.4",
+    "local": "/assets/3558697f-frontend.min.css",
+    "recovery": "D-j-View capture",
+    "bytes": 54666,
+    "sha256": "0a5d398672e25dc7f020f69df92a985481b248a60e301fee232d0c8afd648dc5"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-7.css?ver=1768468067",
+    "local": "/assets/fff765fd-post-7.css",
+    "recovery": "D-j-View capture",
+    "bytes": 1197,
+    "sha256": "d8a37dfb044f7af1e26b311b4d1267ce7d9405bab984732dc4a64f9582d9bb50"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/10/761shots_so-1.png",
+    "local": "/assets/4c2da68a-761shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 419145,
+    "sha256": "7325e557aa6634c210321a4407a246663a52612075757a62679bf21b965ee6b5"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-158.css?ver=1776785754",
+    "local": "/assets/da743672-post-158.css",
+    "recovery": "original asset URL",
+    "bytes": 3379,
+    "sha256": "e48a66c4dd948a4c72055015da855dcac62a6ff7c4da6dd54d27f893044345a1"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.5.9",
+    "local": "/assets/824ec318-general.min.css",
+    "recovery": "D-j-View capture",
+    "bytes": 7746,
+    "sha256": "96102022182a1acb5f4755104dd3f246c5826140767d6da628271ba0e2b0068e"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/10/chartreel.netlify.app_learn-more_btc-2.png",
+    "local": "/assets/97c29fea-chartreel.netlify.app_learn-more_btc-2.png",
+    "recovery": "original asset URL",
+    "bytes": 113389,
+    "sha256": "b0385ccd2f6c77e55cf6664095ad428a40af6fdff15e79f2e7ed8a619b4c1b1e"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/108shots_so-1-1.png",
+    "local": "/assets/22e3c424-108shots_so-1-1.png",
+    "recovery": "original asset URL",
+    "bytes": 148239,
+    "sha256": "81f014a5e16fa377c6a617ebe507e453ca8b8b6215804e6a1095cc129e055c7b"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-175.css?ver=1768502378",
+    "local": "/assets/0aaaf6a1-post-175.css",
+    "recovery": "original asset URL",
+    "bytes": 5279,
+    "sha256": "8abde4c9fb49b84e9d916b2d9e87651fb5cc8d44bd80b172d78b9c0dfbeb407d"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/5shots_so-1.png",
+    "local": "/assets/85d8b51c-5shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 355721,
+    "sha256": "51e51394d7cc22cdab94d1985d4e75d35941fa8d53f0c8a285e637249821bb9d"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.34.4",
+    "local": "/assets/2dc1cd9d-e-animation-grow.min.css",
+    "recovery": "original asset URL",
+    "bytes": 198,
+    "sha256": "dad3795cefb3d9f5dc2cb4a6e621043322cc94cd90170f28f25b8a0c3eda7633"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/12/Jobberman_Soft_Skill_Certificate_5043021-1536x1126-1-1.png",
+    "local": "/assets/bfc12a5e-Jobberman_Soft_Skill_Certificate_5043021-1536x1126-1-1.png",
+    "recovery": "original asset URL",
+    "bytes": 1246847,
+    "sha256": "db7805f55bc0f11247363cac689fa146d6782c9f965199f129154060944e373c"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/927shots_so-1.png",
+    "local": "/assets/deb51069-927shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 131165,
+    "sha256": "494f0851edf3c3d8c3f18fe8a5061a6b90a59e708d3079a96f3a5f0944faeffc"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/3df4a197-d0dc-44f5-978c-74a87c9e877b-2.png",
+    "local": "/assets/f3995901-3df4a197-d0dc-44f5-978c-74a87c9e877b-2.png",
+    "recovery": "original asset URL",
+    "bytes": 157138,
+    "sha256": "5a0f782a0d204793964f82fa41ea52e7f47285bdc91ff611cda17669414f18b7"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/danfo.framer.website_-4-1.png",
+    "local": "/assets/c3fe7c88-danfo.framer.website_-4-1.png",
+    "recovery": "original asset URL",
+    "bytes": 54091,
+    "sha256": "63e45292f4a60defb4b9d4df80efd3d43869bd98f06662f45bc571df70df0a93"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/danfo.framer.website_-1-2.png",
+    "local": "/assets/b9d6ff19-danfo.framer.website_-1-2.png",
+    "recovery": "original asset URL",
+    "bytes": 167241,
+    "sha256": "1a8af25a8edfd192f3ba594f76cd1aafd1658b28d6932b070215ed46ae56895e"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/10/808shots_so-1.png",
+    "local": "/assets/9cd626c0-808shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 440683,
+    "sha256": "81b386ed2b76b571c08972b4281f6f224d5e0d6251f092723216fd392453d41c"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/837shots_so-1.png",
+    "local": "/assets/0640143d-837shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 263965,
+    "sha256": "52dcc1f8f7ca6c3f350eead578c65efafe364604e96e8d8b4cbd590834030ee5"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/danfo.framer.website_iPhone-12-Pro-1-1.png",
+    "local": "/assets/ed2adf12-danfo.framer.website_iPhone-12-Pro-1-1.png",
+    "recovery": "original asset URL",
+    "bytes": 58090,
+    "sha256": "47ad88065f6af3a24dc0dad5f83427c06627db2a1c98104c19a7d5102650e490"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/3df4a197-d0dc-44f5-978c-74a87c9e877b-1.png",
+    "local": "/assets/07152b5a-3df4a197-d0dc-44f5-978c-74a87c9e877b-1.png",
+    "recovery": "original asset URL",
+    "bytes": 274746,
+    "sha256": "3b8bafaef73c45e816db204a458f205a65aea9d5b1bd9967a5ae43837835e7aa"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-2762.css?ver=1778174167",
+    "local": "/assets/982bf01c-post-2762.css",
+    "recovery": "original asset URL",
+    "bytes": 1505,
+    "sha256": "768cbcd8eb114994dee640cee2cebec8edaf948f7f4fd801f56327771ef03d77"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-139.css?ver=1768506972",
+    "local": "/assets/e8d0b2bb-post-139.css",
+    "recovery": "original asset URL",
+    "bytes": 2758,
+    "sha256": "06312231dbc5773b52bb4b30f131dc0a47041a9df35e38ee14e3b52b5881e9e8"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/VideoCapture_20241023-030248.jpg",
+    "local": "/assets/4a66b90a-VideoCapture_20241023-030248.jpg",
+    "recovery": "original asset URL",
+    "bytes": 72686,
+    "sha256": "aea17bdebb9635e7de493446bf7d9701d7827b3e6741dd223861454b8c80f0c8"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-3952.css?ver=1776766979",
+    "local": "/assets/dfc5bff4-post-3952.css",
+    "recovery": "original asset URL",
+    "bytes": 2246,
+    "sha256": "bbab463ca2f9a8734c5d7c4f822aa3f22e703b15ea23354750ea595b290b7190"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/907shots_so-1.png",
+    "local": "/assets/3bfa22d3-907shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 261550,
+    "sha256": "345597b0239fc218dd5425767dcb5a58cd971477084b93655cd9add6b78522e1"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/danfo.framer.website_-1-1-1.png",
+    "local": "/assets/057f3c9b-danfo.framer.website_-1-1-1.png",
+    "recovery": "original asset URL",
+    "bytes": 243359,
+    "sha256": "595693abdb840092446aec815116ac0c3db9c8bc20f80ed78eb3ef1b9edf48b3"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.34.4",
+    "local": "/assets/0bb0d445-widget-image.min.css",
+    "recovery": "original asset URL",
+    "bytes": 214,
+    "sha256": "fb8690e594b2f9b841585895d811e8cb839667a1a63963d1a1cdea11e2aa2abb"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/04/636shots_so-1.png",
+    "local": "/assets/e5401b84-636shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 257396,
+    "sha256": "88a25ecb509aa4230a499ccf12411c6c108486e4af450b7617ae3cf0bc4a4b0b"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/danfo.framer.website_-3-1.png",
+    "local": "/assets/345c7b08-danfo.framer.website_-3-1.png",
+    "recovery": "original asset URL",
+    "bytes": 245154,
+    "sha256": "22086bc37cb4665bffe3dd21b8e3b38d9d792edd3fac55cf29f7f47216646ffe"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-115.css?ver=1768490612",
+    "local": "/assets/771a477a-post-115.css",
+    "recovery": "original asset URL",
+    "bytes": 4918,
+    "sha256": "3a3105894a2163262e86b1fff50d4c6489b29900de02068500c8a0458def877c"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/04/847shots_so-1.png",
+    "local": "/assets/79827da7-847shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 303630,
+    "sha256": "77aff60c01397f06ba9de79f66a68093ced8e259a5cbbc2a91566776ecc41229"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/985shots_so-1.png",
+    "local": "/assets/7c46c3c2-985shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 484570,
+    "sha256": "0e5e7cfa6dfee280fb8b3354c4992407923646985c6bb6d8c9ff29825075d102"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/442shots_so-1.png",
+    "local": "/assets/9e195830-442shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 586590,
+    "sha256": "4272b42d41ed79d85aa20c7c0af7f7b0a7bc66d258b86250706fb520e8ae815e"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/04/783shots_so-1.png",
+    "local": "/assets/d1edeffe-783shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 384791,
+    "sha256": "3922ac5f375343c360e415877cb4c34947397f6338e2400346eec497459b240c"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/903shots_so-1-1024x768.png",
+    "local": "/assets/ef85ea78-903shots_so-1-1024x768.png",
+    "recovery": "original asset URL",
+    "bytes": 402974,
+    "sha256": "b400e45b4a2b7dd0800067b3c1f4da7458f073a96c90ccc9fd91f2897f170f93"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/903shots_so-1-300x225.png",
+    "local": "/assets/63f3ceeb-903shots_so-1-300x225.png",
+    "recovery": "original asset URL",
+    "bytes": 51878,
+    "sha256": "08e06abb2b63ace10eb1183db246c83657e58ae11816e46846723f5cb9351580"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/04/782shots_so-1.png",
+    "local": "/assets/21ae701d-782shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 484058,
+    "sha256": "1f1fb789611440c5defd570bfd09fe2387a9a253e85c9fe2d62638b33c75674e"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/187shots_so-1.png",
+    "local": "/assets/780f0c40-187shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 587517,
+    "sha256": "1aa122ca1388b6ceff6645737cd1c2a53ae100eb481c71006f2196b80e360c00"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/985shots_so-1-768x576.png",
+    "local": "/assets/7b8a7a43-985shots_so-1-768x576.png",
+    "recovery": "original asset URL",
+    "bytes": 149367,
+    "sha256": "1a0902cda0d079b76a6e6647fbf4e428110d0f059948652032a8217d12c8f5e7"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/985shots_so-1-1024x768.png",
+    "local": "/assets/61460178-985shots_so-1-1024x768.png",
+    "recovery": "original asset URL",
+    "bytes": 239139,
+    "sha256": "d4215140992b4aa16598c076dd291c360654edae4a126987afa5226aafb3cec2"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-83.css?ver=1776833076",
+    "local": "/assets/bc6c8145-post-83.css",
+    "recovery": "original asset URL",
+    "bytes": 2243,
+    "sha256": "6d29c641b6b45e1c785d8043a428224314002b792422df770cac4cae7c6fd74c"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/10/JobBox-Job-board-Landing-Page-Awesome-Screenshot.mp4",
+    "local": "/assets/a28a7c53-JobBox-Job-board-Landing-Page-Awesome-Screenshot.mp4",
+    "recovery": "original asset URL",
+    "bytes": 4689064,
+    "sha256": "d076d1b8b9ef1d7649103681625d64cb72c811b2881048b4796fd5bf44d394e7"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/903shots_so-1-768x576.png",
+    "local": "/assets/030ef445-903shots_so-1-768x576.png",
+    "recovery": "original asset URL",
+    "bytes": 251619,
+    "sha256": "d2da042ed56d09dfa800940fe7d2fbce6eea58af8015b7ab6b4eadebf5985021"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/04/712shots_so-1.png",
+    "local": "/assets/bf6b8691-712shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 323525,
+    "sha256": "20d85e84ab3979f97e9d59298a18420b4b7ec7b5095a2c5b9e9b120da8355582"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.7.2",
+    "local": "/assets/b7a6b080-wp-mediaelement.min.css",
+    "recovery": "D-j-View capture",
+    "bytes": 4186,
+    "sha256": "2e10d353ff038c2cad3492fc17801af3e6ef2669c9e9713bdb78b1dcb104c4fe"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6",
+    "local": "/assets/4eda8d25-styles.css",
+    "recovery": "D-j-View capture",
+    "bytes": 2979,
+    "sha256": "a3b9f5df6bf638a4cb583480bed6e18a84ad7141cc3d75b81094f91dd7b82f32"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/content.css?ver=6.7.2",
+    "local": "/assets/0c319473-content.css",
+    "recovery": "D-j-View capture",
+    "bytes": 26070,
+    "sha256": "1b3d385c39e68d6949543eac2a64ba0a1bc371a7b5cb8032c880ae2b75f91724"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/showcase.css?ver=6.7.2",
+    "local": "/assets/33b9b837-showcase.css",
+    "recovery": "D-j-View capture",
+    "bytes": 40637,
+    "sha256": "0349047fb7d65ee3e7b2dba3548e1d9b3f4e25544dc8ad6b79dbb0aad09f5086"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/portfolio.css?ver=6.7.2",
+    "local": "/assets/af523ea9-portfolio.css",
+    "recovery": "D-j-View capture",
+    "bytes": 13154,
+    "sha256": "3bbe135852223bef90381e71257fe9af5a9dfef158dd4777864e4e616e33b2b6"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/blog.css?ver=6.7.2",
+    "local": "/assets/e53b7c4b-blog.css",
+    "recovery": "D-j-View capture",
+    "bytes": 41593,
+    "sha256": "189c840400027f68c79dddf0faef7bf76aab861451abd058046aaddc1178ec04"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/shortcodes.css?ver=6.7.2",
+    "local": "/assets/9fb22625-shortcodes.css",
+    "recovery": "D-j-View capture",
+    "bytes": 78545,
+    "sha256": "0df812461f8538034adfc2023fcdcf72ed73bd96432e24190e181f7f18243939"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/assets.css?ver=6.7.2",
+    "local": "/assets/30209f9c-assets.css",
+    "recovery": "D-j-View capture",
+    "bytes": 18564,
+    "sha256": "0e4e11167125587a5ce6e58035d2113ad612feca7a64602216cdb12a733d1078"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/shop.css?ver=6.7.2",
+    "local": "/assets/0e62347f-shop.css",
+    "recovery": "D-j-View capture",
+    "bytes": 77346,
+    "sha256": "c103f93ce4bfaa3696a1dc8569da31a8d098b77e512a86f9ac0e51d565ab40e6"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/style-wp.css?ver=6.7.2",
+    "local": "/assets/42d785ee-style-wp.css",
+    "recovery": "D-j-View capture",
+    "bytes": 8129,
+    "sha256": "c6a0e68ce893ae521948c9290acdc56eebf74b3e9092b02dd65150f782c5ac0e"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/page-builders.css?ver=6.7.2",
+    "local": "/assets/81d1f812-page-builders.css",
+    "recovery": "D-j-View capture",
+    "bytes": 14379,
+    "sha256": "f0a6de14edb6546fec3c84a562f94fdd3378517976b6d9d66bf25a871cfc82c6"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/style.css?ver=6.7.2",
+    "local": "/assets/336b2b98-style.css",
+    "recovery": "D-j-View capture",
+    "bytes": 75387,
+    "sha256": "b5cca826b0e81979eab6ff6a01aa24cc64c28f01e5d73e902ed73589734b9ab8"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/css/all.min.css?ver=6.7.2",
+    "local": "/assets/6f35f571-all.min.css",
+    "recovery": "D-j-View capture",
+    "bytes": 102781,
+    "sha256": "8a46fcfe99b73ea7157967a6797407b4ea5d6d024c4909f4521a6ea4830da25b"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.30.3",
+    "local": "/assets/5fd166fa-frontend.min.css",
+    "recovery": "D-j-View capture",
+    "bytes": 54666,
+    "sha256": "0a5d398672e25dc7f020f69df92a985481b248a60e301fee232d0c8afd648dc5"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-7.css?ver=1753832083",
+    "local": "/assets/67e0832b-post-7.css",
+    "recovery": "D-j-View capture",
+    "bytes": 1197,
+    "sha256": "d8a37dfb044f7af1e26b311b4d1267ce7d9405bab984732dc4a64f9582d9bb50"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/903shots_so-1.png",
+    "local": "/assets/3ad4b8a3-903shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 824853,
+    "sha256": "78a61eaa020428c17fdee387488579b17436dd0cccf9781d8e4251108f114dc7"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.2.0",
+    "local": "/assets/6a1f8a54-general.min.css",
+    "recovery": "D-j-View capture",
+    "bytes": 7746,
+    "sha256": "96102022182a1acb5f4755104dd3f246c5826140767d6da628271ba0e2b0068e"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/985shots_so-1-300x225.png",
+    "local": "/assets/a1de53bb-985shots_so-1-300x225.png",
+    "recovery": "original asset URL",
+    "bytes": 30817,
+    "sha256": "194c44c1c7674721048d560a23934217a4f3d12503d2e298a63d1c96c2e34a81"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/779shots_so.png",
+    "local": "/assets/109de293-779shots_so.png",
+    "recovery": "original asset URL",
+    "bytes": 203789,
+    "sha256": "b7331a3d4e4cc6120854318032d1ec0ff0ec8c72e5eb0d30ba62400d1cbd1ab3"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/857shots_so.png",
+    "local": "/assets/6166a13d-857shots_so.png",
+    "recovery": "original asset URL",
+    "bytes": 238710,
+    "sha256": "c46be80a2d4837610faff07efef2158c7af4195b903e26f00aa95c4095809109"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/elementor/css/post-3514.css?ver=1753940503",
+    "local": "/assets/2461c70e-post-3514.css",
+    "recovery": "original asset URL",
+    "bytes": 5319,
+    "sha256": "979b13affe196c7a32679850699efbd485c9e30df29745b666226f87b9b65e2b"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.30.3",
+    "local": "/assets/2f78ff91-e-animation-grow.min.css",
+    "recovery": "original asset URL",
+    "bytes": 198,
+    "sha256": "dad3795cefb3d9f5dc2cb4a6e621043322cc94cd90170f28f25b8a0c3eda7633"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/680shots_so.png",
+    "local": "/assets/0a92a49a-680shots_so.png",
+    "recovery": "original asset URL",
+    "bytes": 434093,
+    "sha256": "f9cf3ae7c6713005fb368bcb2a3395808721671037ee6a9f67438a9885e28cbc"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/01/992_3x_shots_so-2.png",
+    "local": "/assets/2a9d787a-992_3x_shots_so-2.png",
+    "recovery": "original asset URL",
+    "bytes": 529288,
+    "sha256": "65561c267d3e7a9a95c36184af669cc71ab0c982441e6c75741df0094e5a702f"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/903shots_so-1-1536x1152.png",
+    "local": "/assets/421d23d0-903shots_so-1-1536x1152.png",
+    "recovery": "original asset URL",
+    "bytes": 765316,
+    "sha256": "905e182da2002832ad6b013f97f67d8f1a11dc2870bceb6d67ffefe627d7445f"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/bcf-fonts/Poppins/poppins-100-normal0.woff2",
+    "local": "/assets/fbc98e10-poppins-100-normal0.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 5364,
+    "sha256": "b49bddf0704c9a43e05aec3017a719e1f5739a45add8b88b1c9d726e90ea6900"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/bcf-fonts/Poppins/poppins-100-normal1.woff2",
+    "local": "/assets/b1a2d27b-poppins-100-normal1.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 7484,
+    "sha256": "a9220f99b916978e5d7934b73be5ab91444871ba52a89032e4dd90e42b0a96e1"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/bcf-fonts/Poppins/poppins-400-normal0.woff2",
+    "local": "/assets/78e8f02d-poppins-400-normal0.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 5644,
+    "sha256": "0b1fcab42c18b69bcfe9ce4799fcbff5af1621c53ffcfdc4723c6f5ec4ee3ffb"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/bcf-fonts/Poppins/poppins-400-normal1.woff2",
+    "local": "/assets/5973e775-poppins-400-normal1.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 7884,
+    "sha256": "7d93459d86585bfcdbb7e0376056226adb25821ee54b96236fe2123e9560929f"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/bcf-fonts/Poppins/poppins-500-normal0.woff2",
+    "local": "/assets/405aa696-poppins-500-normal0.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 5484,
+    "sha256": "af5fda16a19169e029a132374616728e1bf326d90bef5a552395c5053e21cd0f"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/bcf-fonts/Poppins/poppins-500-normal1.woff2",
+    "local": "/assets/39ddb67c-poppins-500-normal1.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 7748,
+    "sha256": "cd36de204aca2d5fa263a731f7c20009b5e3d754ba1f1e03c33e93a48f3e7446"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/bcf-fonts/Poppins/poppins-600-normal0.woff2",
+    "local": "/assets/4c6458c3-poppins-600-normal0.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 5524,
+    "sha256": "bb1f2d582e7fba586ab70c91ef062d3becaf78b887654953863521b73665d171"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/bcf-fonts/Poppins/poppins-600-normal1.woff2",
+    "local": "/assets/6fca4ba5-poppins-600-normal1.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 8000,
+    "sha256": "f4e80d9dfd374d02989b87a27b5ed4cb78fbb177c27f1478e9a8b0afb7513149"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/bcf-fonts/Poppins/poppins-700-normal0.woff2",
+    "local": "/assets/d81b5670-poppins-700-normal0.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 5432,
+    "sha256": "ccfd87f69ef00d811da3d06488cec4e79ec99d289cfbcbe4be42031cecae775a"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/bcf-fonts/Poppins/poppins-700-normal1.woff2",
+    "local": "/assets/2a0bd7e8-poppins-700-normal1.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 7816,
+    "sha256": "9338e65fc077355c7a87ae0d64cc101e23b9bf8ad78ae65f0f319c857311b526"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-includes/js/mediaelement/mejs-controls.svg",
+    "local": "/assets/3ba75212-mejs-controls.svg",
+    "recovery": "D-j-View capture",
+    "bytes": 4598,
+    "sha256": "ad55816ac6c62f214e60a1913ff4f0215ab329034cbc7436a5514941449ca7b9"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/images/close.png",
+    "local": "/assets/d8aaa689-close.png",
+    "recovery": "D-j-View capture",
+    "bytes": 567,
+    "sha256": "4c1c7665f9491e256202da5ccfe7be99ab35e7ba66548f6f7dd7baee99a2b2c1"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/images/clients-middle.png",
+    "local": "/assets/8df76fe8-clients-middle.png",
+    "recovery": "D-j-View capture",
+    "bytes": 1029,
+    "sha256": "94859bfa9ba69f8c2d95dd0d2c4b1db67b1d1dfae0f7f6a2ad62aff3a83bbd9a"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/images/clients-middle-white.png",
+    "local": "/assets/d5adc9bc-clients-middle-white.png",
+    "recovery": "D-j-View capture",
+    "bytes": 901,
+    "sha256": "f3175dd0cabfae1b7b9d485cd7ecbddf0fba4571da2680e52beb0e3fa611b5c8"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/images/clients-top.png",
+    "local": "/assets/80cdd94e-clients-top.png",
+    "recovery": "D-j-View capture",
+    "bytes": 926,
+    "sha256": "0506fe5921a380c9ab652918115db9bf711a02ec603314cad8f400445fbc4960"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/images/clients-top-white.png",
+    "local": "/assets/71663f48-clients-top-white.png",
+    "recovery": "D-j-View capture",
+    "bytes": 762,
+    "sha256": "10b05304cb46e76e666f6e44b8095be6520bba84a665d5e76720612b657dbd49"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/images/clients-bottom.png",
+    "local": "/assets/747a6367-clients-bottom.png",
+    "recovery": "D-j-View capture",
+    "bytes": 918,
+    "sha256": "f0957fcbd5953b4780f411171508f2e963050b8fb3a5f143123b05086bd2b395"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/images/clients-bottom-white.png",
+    "local": "/assets/aa4f3584-clients-bottom-white.png",
+    "recovery": "D-j-View capture",
+    "bytes": 735,
+    "sha256": "2952afb6c53f078308f90bc4d916f6d5ff105a88ed8f93db40101bf1462e3b69"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/images/rotate.png",
+    "local": "/assets/491886d0-rotate.png",
+    "recovery": "D-j-View capture",
+    "bytes": 5095,
+    "sha256": "6f3ffd7b811d3caf20e65df9fe183597457cb97e9aed40d29c4734756547646a"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z11lFd2JQEl8qw.woff2",
+    "local": "/assets/a8658bea-pxiByp8kv8JHgFVrLDz8Z11lFd2JQEl8qw.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 39416,
+    "sha256": "f019bf8fa642981b9f12647688e825ccad3522d51f2f2859b1af372d5dc1ac31"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1JlFd2JQEl8qw.woff2",
+    "local": "/assets/7a8f5d3b-pxiByp8kv8JHgFVrLDz8Z1JlFd2JQEl8qw.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 5540,
+    "sha256": "c2857fb5c3f971df45e8c2764709acbcc5c6d60b9e47d945ae2e7bc51415afeb"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.woff2",
+    "local": "/assets/fae37f53-pxiByp8kv8JHgFVrLDz8Z1xlFd2JQEk.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 7844,
+    "sha256": "643e38d8c288a1da34a14a68a5012441929108d50054414ce8cc33fad36a2354"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2",
+    "local": "/assets/0f44cb18-pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 39504,
+    "sha256": "23617a1bf667dd6a29e2724ac6595e75924549d1c25e8672e2346ef38bc9984a"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2",
+    "local": "/assets/0ff0d30c-pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 5640,
+    "sha256": "1fae5e73d2788ee1dea1d76eca3a9f157a0386de6be8c280d076a53a64c358a1"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
+    "local": "/assets/13045147-pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 7900,
+    "sha256": "3dc5d0c52428fe1696264907a1054ebbaac07f8cbe45832c105f819c2ae397c0"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z11lFd2JQEl8qw.woff2",
+    "local": "/assets/9a88fc1f-pxiByp8kv8JHgFVrLGT9Z11lFd2JQEl8qw.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 39160,
+    "sha256": "9c8c47ee0aeaa2d378f4e5d5719ecbf05a601a35c285d0d48b888106bb15cf49"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1JlFd2JQEl8qw.woff2",
+    "local": "/assets/1db57cd9-pxiByp8kv8JHgFVrLGT9Z1JlFd2JQEl8qw.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 5496,
+    "sha256": "f8f0c28661c88edbcee022a4a80657619e8931af8c2a47c28e230307e2af30e5"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2",
+    "local": "/assets/f5e57db4-pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 7740,
+    "sha256": "289e0afc8be731a86822349e54557296f145926496bd2138db1bac0db77f77a2"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z11lFd2JQEl8qw.woff2",
+    "local": "/assets/b8f4f752-pxiByp8kv8JHgFVrLEj6Z11lFd2JQEl8qw.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 39384,
+    "sha256": "6d8ef422be4d827037f6f2d5766a0808018876fa5e9aa9a92787fad9d1f17938"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1JlFd2JQEl8qw.woff2",
+    "local": "/assets/39e7f079-pxiByp8kv8JHgFVrLEj6Z1JlFd2JQEl8qw.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 5552,
+    "sha256": "72efc6a32cfd37c557108628cffa01153c480c3d4cde556744406e50b9d8e9f7"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2",
+    "local": "/assets/2cf2a902-pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 7992,
+    "sha256": "872e862918591a9e824dc03ed92f05729435ffbb8ebbb10eff7eda26592b1798"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2",
+    "local": "/assets/9607042d-pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 39204,
+    "sha256": "6eb8802d7319fcd48850eb38e41ed6ea12d917faafdfac7dae5614a517dc2b54"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2",
+    "local": "/assets/054df55a-pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 5448,
+    "sha256": "2477683a4b1200680780a759cc1b93b816410362dc5f4c74ebfeafa212bcb74d"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2",
+    "local": "/assets/0ee5dc9a-pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 7848,
+    "sha256": "197a3cbd7290c242c5c765268cdd69a9a39867fdc80cd13071f243a81c56fb76"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/webfonts/fa-brands-400.woff2",
+    "local": "/assets/cc2c1961-fa-brands-400.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 117372,
+    "sha256": "3a8924cd5203a28628716aedb5cef0943da4c3b44e3ffcee90ab06387b41c490"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/webfonts/fa-brands-400.ttf",
+    "local": "/assets/874ba767-fa-brands-400.ttf",
+    "recovery": "D-j-View capture",
+    "bytes": 207972,
+    "sha256": "5656d596bc597165a42182f67b2b9f17d2ae47a9e3ef1b042b9a729739730705"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/webfonts/fa-regular-400.woff2",
+    "local": "/assets/8c6bde72-fa-regular-400.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 25452,
+    "sha256": "2bccecf0bc7e96cd5ce4003abeb3ae9ee4a3d19158c4e6edfd2df32d2f0d5721"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/webfonts/fa-regular-400.ttf",
+    "local": "/assets/2970eb1a-fa-regular-400.ttf",
+    "recovery": "D-j-View capture",
+    "bytes": 68004,
+    "sha256": "5d02dc9b858e3c85a794f87e379857f4fedc4e26cf15001714a9a0e0b1d2294d"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/webfonts/fa-solid-900.woff2",
+    "local": "/assets/5cffa3b0-fa-solid-900.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 156496,
+    "sha256": "9fc85f3a4544ab0d570c7f8f9bbb88db8d92c359b2707580ea8b07c75673eae2"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/webfonts/fa-solid-900.ttf",
+    "local": "/assets/c11b2593-fa-solid-900.ttf",
+    "recovery": "D-j-View capture",
+    "bytes": 419720,
+    "sha256": "fbbf06d7437aa30f3cd44c968380193545a8fc3eadfb7ad897bbb101eefec5a2"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/webfonts/fa-v4compatibility.woff2",
+    "local": "/assets/1fe7828c-fa-v4compatibility.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 4792,
+    "sha256": "4d4a2d7fd1c6684845cb174fdd7fc073bd64cb741286fb247f8b76c2b7b852c4"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/themes/montoya/webfonts/fa-v4compatibility.ttf",
+    "local": "/assets/cb0450e4-fa-v4compatibility.ttf",
+    "recovery": "D-j-View capture",
+    "bytes": 10832,
+    "sha256": "09663a36fc05e7190af8324b855105c5bb511ad94f94b81b34afee503279eca2"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/sixcaps/v23/6ae_4KGrU7VR7bNmaYcb_3T4PzoomE4.woff2",
+    "local": "/assets/07b7acbc-6ae_4KGrU7VR7bNmaYcb_3T4PzoomE4.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 4756,
+    "sha256": "2c501a51117582ab755786e10db80df2117412c9ab5a1bbff779de992e38deec"
+  },
+  {
+    "source": "https://fonts.gstatic.com/s/sixcaps/v23/6ae_4KGrU7VR7bNmaYcV_3T4Pzoo.woff2",
+    "local": "/assets/e06b9138-6ae_4KGrU7VR7bNmaYcV_3T4Pzoo.woff2",
+    "recovery": "D-j-View capture",
+    "bytes": 7628,
+    "sha256": "b7ba99555d9e085fd3e081708829498431ad65df54c638b416dfc633810f55ff"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/985shots_so-1-1536x1152.png",
+    "local": "/assets/8aa07b44-985shots_so-1-1536x1152.png",
+    "recovery": "original asset URL",
+    "bytes": 453784,
+    "sha256": "70b82d3856aa8fa24cbc336984cc86a33951a6f55370ca8c42099a339a2d4a54"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/01/232_2x_shots_so.png",
+    "local": "/assets/f4998b0e-232_2x_shots_so.png",
+    "recovery": "original asset URL",
+    "bytes": 919773,
+    "sha256": "9d5a259557f2038a1e8beaa55572a16bbafff6706107eac1707e53559d373535"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/01/218bf63c-5e9c-4615-9ee3-bd8ebbbcde96u87y6fg-2.png",
+    "local": "/assets/a0d0ba8a-218bf63c-5e9c-4615-9ee3-bd8ebbbcde96u87y6fg-2.png",
+    "recovery": "original asset URL",
+    "bytes": 361112,
+    "sha256": "b956f26f483989e46b051fb14e9b9733ef0b3ef15daf29447e3f19e7edb790ba"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/01/6050be0d-31f2-4bc0-bd25-471a14d3769b-1.png",
+    "local": "/assets/13853f23-6050be0d-31f2-4bc0-bd25-471a14d3769b-1.png",
+    "recovery": "original asset URL",
+    "bytes": 297624,
+    "sha256": "8af3193dc5ff1e1f74fc01af4d985806d58734551fd363d3d5cb763836452acb"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/01/179_3x_shots_so-1.png",
+    "local": "/assets/81cbe147-179_3x_shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 1141835,
+    "sha256": "d62afe6c6195a0f0bd25b37c4177ca4148bd3549cae35ef18b439ab6d6cc4f27"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2024/11/259shots_so.png",
+    "local": "/assets/d2eb05c7-259shots_so.png",
+    "recovery": "original asset URL",
+    "bytes": 830864,
+    "sha256": "c00cd0d966fc6ab536425cbc95fcbfa95c7f838a5caec4a13aa43fed0686e9a2"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/01/519_3x_shots_so-1.png",
+    "local": "/assets/aa8e1eec-519_3x_shots_so-1.png",
+    "recovery": "original asset URL",
+    "bytes": 647270,
+    "sha256": "e351285de624cceeaecf8db9fc5f1522e8b50bd8dca67538f40cd42a90b22e7f"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/01/290_2x_shots_so.png",
+    "local": "/assets/204f9cc5-290_2x_shots_so.png",
+    "recovery": "original asset URL",
+    "bytes": 766164,
+    "sha256": "a04329e09169c0b004edfb4bff7b71a7ffe80ef22898fb4e6d8383f23334cba7"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/01/630_2x_shots_so.png",
+    "local": "/assets/b3c16aa9-630_2x_shots_so.png",
+    "recovery": "original asset URL",
+    "bytes": 928645,
+    "sha256": "db724977080aa2460ce3999f3f59c01fc8379c42bdfdd06e01c669ed447f31b2"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/03/cropped-Group-41-270x270.png",
+    "local": "/assets/6790256c-cropped-Group-41-270x270.png",
+    "recovery": "original asset URL",
+    "bytes": 9731,
+    "sha256": "c2a0618dce4d335bd556893257869ae29b8b0c042bf88a136d63e8de4c8091e5"
+  },
+  {
+    "source": "https://ameerbamigbayan.com/wp-content/uploads/2025/03/PAGE-02-scaled.jpg",
+    "local": "/assets/cd7f5adf-PAGE-02-scaled.jpg",
+    "recovery": "original asset URL",
+    "bytes": 29601,
+    "sha256": "dd20e52b89d7e90bc252f8952c46d21dd12febb57c2073deb35ca6918c001cbd"
+  }
+]

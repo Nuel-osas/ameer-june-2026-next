@@ -1,0 +1,27 @@
+[
+  {
+    "label": "Home",
+    "href": "/",
+    "id": 2772
+  },
+  {
+    "label": "About",
+    "href": "/about-me/",
+    "id": 2979
+  },
+  {
+    "label": "Projects",
+    "href": "/projects/",
+    "id": 2773
+  },
+  {
+    "label": "The Archive",
+    "href": "/the-archive/",
+    "id": 3863
+  },
+  {
+    "label": "Contact",
+    "href": "/contact/",
+    "id": 2981
+  }
+]
